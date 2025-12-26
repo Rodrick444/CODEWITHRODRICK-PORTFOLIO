@@ -1,0 +1,135 @@
+1️⃣ GENERAL REQUIREMENTS
+
+Make the website visually attractive, clean, and professional.
+
+Include nice animations, smooth transitions, hover effects, and modern UI.
+
+Use responsive layouts for desktop + mobile.
+
+Use HTML, CSS, JavaScript (or React if needed).
+
+Use a modern design style, good spacing, and beautiful typography.
+
+2️⃣ PAGES/SECTIONS NEEDED
+Home Section
+
+Brand name: CODEWITHKAYLA
+
+Short introduction about me as a web developer.
+
+Animated hero section (text fade-in, image slide, or similar).
+
+Portfolio/Projects Section
+
+Display project cards or galleries.
+
+Each project card should have:
+
+Image
+
+Title
+
+Short description
+
+Make it easy for me to upload new project images and descriptions from a simple admin page (only me, locked with a password).
+
+About Me Section
+
+My short bio as a web designer / developer.
+
+Contact Section
+
+A contact form where visitors can write a message.
+
+When a visitor submits the form, it should automatically send the message to my Gmail.
+
+Visitors should NOT be able to upload files — only text messages.
+
+3️⃣ ADMIN FEATURES (ONLY ME)
+
+I need an admin panel where ONLY I can upload new project images and add project descriptions.
+
+Requirements for admin page:
+
+Protected by a login password (simple login is fine).
+
+Allow me to upload new images for portfolio projects.
+
+Allow me to enter project titles + short descriptions.
+
+Save new projects so they appear instantly on the portfolio page.
+
+No one else should be able to access this upload area.
+
+You can store uploaded project data using:
+
+A simple JSON file
+OR
+
+A lightweight database
+(Choose whichever is easier on Replit)
+
+4️⃣ VISITOR PERMISSIONS
+
+Visitors should:
+
+Only view the portfolio
+
+Only send messages via contact form
+
+NOT be able to upload images
+
+NOT be able to access admin or modify anything
+
+5️⃣ DESIGN REQUIREMENTS
+
+Use good font pairing
+
+Use a matching color palette (modern, elegant)
+
+Use animations like fade-in, slide-in, hover zoom, etc.
+
+Make the project section visually impressive
+
+Ensure the website feels premium and unique
+
+6️⃣ STRUCTURE THE CODE FOR EASY EDITING
+
+Keep CSS in separate file
+
+Keep JS in separate file
+
+Provide comments explaining how to update:
+
+Admin password
+
+Portfolio items
+
+Contact form email
+
+7️⃣ CONTACT FORM EMAIL FUNCTIONALITY
+
+Contact form should:
+
+Take name, email, message
+
+Send the message automatically to my Gmail using a backend script
+(Node.js or Python — choose whichever integrates best with Replit)
+
+8️⃣ FINAL OUTPUT
+
+Deliver:
+
+All source files
+
+Instructions on:
+
+How to access the admin panel
+
+How to upload new projects
+
+How to change the password
+
+How to deploy on Replit
+
+Build the website exactly according to this specification.

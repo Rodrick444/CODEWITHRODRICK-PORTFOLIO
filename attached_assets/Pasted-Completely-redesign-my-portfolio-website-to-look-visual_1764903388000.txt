@@ -1,0 +1,91 @@
+Completely redesign my portfolio website to look visually stunning, futuristic, vibrant, and highly interactive.
+Do NOT keep the current basic layout. Rebuild it with a modern, premium UI that looks like a high-end creative developer's site.
+
+1. Overall Theme & Style
+
+Use a vibrant blue-based futuristic theme with glowing gradients, soft neon edges, and smooth depth shadows.
+
+Add micro-animations, hover effects, smooth transitions, and subtle parallax.
+
+Make everything feel alive, energetic, and premium.
+
+2. Navigation Bar
+
+Create a clean, modern, transparent navbar with:
+
+Logo on the left
+
+Menu links aligned right
+
+Slight glassmorphism blur
+
+Hover glow animation
+
+3. Hero Section
+
+Rebuild the hero section to be dynamic and visually impressive:
+
+Add a horizontal auto-sliding carousel of images showing satisfied clients using my delivered websites on their laptops, phones, or tablets.
+
+Ensure the images feel authentic and modern.
+
+Add a bold title similar to “CODEWITHRODRICK — Web Developer & Designer”.
+
+Add subtext describing what I offer.
+
+Add strong call-to-action buttons:
+
+View Projects
+
+Let’s chat through WhatsApp (+2349046490562) — make this button stand out with a WhatsApp green accent glow.
+
+4. Featured Projects Section
+
+Use a modern grid layout
+
+Add placeholder futuristic cards with animations, shadows, and image previews
+
+Remove any empty or plain appearance. Add sample thumbnails if needed.
+
+5. About Section
+
+Replace the plain blue circle profile with a professional, glowing, semi-transparent bust silhouette in blue tones.
+
+Make the section more visually creative with smooth diagonal shapes, ambient light effects, floating icons, and a more compact, modern typography layout.
+
+6. Skills & Expertise
+
+Turn the skill tags into glowing pill-shaped badges
+
+Add small animated icons
+
+Add subtle section transitions
+
+7. Contact Section
+
+Make it vibrant instead of plain white
+
+Add glowing border fields, soft glassmorphism background, and subtle animations
+
+Add a large WhatsApp CTA button:
+“Let’s chat through WhatsApp — +2349046490562”
+
+Add animated social icons
+
+8. Footer
+
+Make it more modern, darker or gradient-based
+
+Add soft neon text glow
+
+9. Performance
+
+Ensure all visuals do not break functionality
+
+Keep layout responsive
+
+Ensure animations are smooth
+
+10. Quality
+
+The entire website should look premium, futuristic, structured, vibrant, and visually stunning — something impressive and not basic.
