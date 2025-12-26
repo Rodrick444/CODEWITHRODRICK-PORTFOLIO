@@ -1,0 +1,9 @@
+Improve security for serving uploaded images
+
+Update the /uploads endpoint to only serve valid image files and prevent path traversal.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 0ca0daf5-ca83-435c-8f6e-e26d24c52567
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: a91a2811-0fea-49e9-80ea-c32a3d00fb02
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/062797a5-f9a4-4b5a-9264-e78d600257d1/0ca0daf5-ca83-435c-8f6e-e26d24c52567/td4Qqne
